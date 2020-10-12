@@ -34,3 +34,9 @@ Small.args = {
   size: "small",
   label: "Button",
 };
+
+export const Bug = Template.bind({});
+Bug.args = {
+  size: null,
+  label: "Button",
+};
